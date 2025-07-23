@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Tableau Workbook Template for KCSE Analysis -->
+<workbook version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <!-- Data source connections for KCSE CSV files -->
+  <data-sources>
+    <data-source caption='KCSE Comprehensive Dataset' inline='true' name='federated.1abc2345' version='18.1'>
+      <connection class='textfile' directory='/path/to/your/csv/files' filename='tableau_comprehensive_dataset.csv' server='' username=''>
+        <relation name='tableau_comprehensive_dataset.csv' table='[tableau_comprehensive_dataset#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Year' ordinal='0' />
+            <column datatype='string' name='Gender' ordinal='1' />
+            <column datatype='integer' name='Registered' ordinal='2' />
+            <column datatype='integer' name='Sat' ordinal='3' />
+            <column datatype='real' name='Participation_Rate' ordinal='4' />
+            <column datatype='string' name='Category' ordinal='5' />
+          </columns>
+        </relation>
+      </connection>
+    </data-source>
+    
+    <data-source caption='KCSE Time Series' inline='true' name='federated.2def6789' version='18.1'>
+      <connection class='textfile' directory='/path/to/your/csv/files' filename='tableau_time_series.csv' server='' username=''>
+        <relation name='tableau_time_series.csv' table='[tableau_time_series#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Year' ordinal='0' />
+            <column datatype='string' name='Metric' ordinal='1' />
+            <column datatype='real' name='Count' ordinal='2' />
+          </columns>
+        </relation>
+      </connection>
+    </data-source>
+  </data-sources>
+  
+  <!-- Worksheets definition -->
+  <worksheets>
+    <worksheet name='KCSE Participation Trends'>
+      <!-- Worksheet configuration for time series visualization -->
+    </worksheet>
+    
+    <worksheet name='Gender Parity Analysis'>
+      <!-- Worksheet configuration for gender comparison -->
+    </worksheet>
+    
+    <worksheet name='Growth Analysis'>
+      <!-- Worksheet configuration for growth metrics -->
+    </worksheet>
+    
+    <worksheet name='KPI Summary'>
+      <!-- Worksheet for key performance indicators -->
+    </worksheet>
+  </worksheets>
+  
+  <!-- Dashboard definition -->
+  <dashboards>
+    <dashboard name='KCSE Executive Dashboard'>
+      <!-- Dashboard layout and configuration -->
+    </dashboard>
+  </dashboards>
+  
+  <!-- Story points for narrative -->
+  <stories>
+    <story name='KCSE Success Story'>
+      <!-- Story points highlighting key insights -->
+    </story>
+  </stories>
+</workbook>
