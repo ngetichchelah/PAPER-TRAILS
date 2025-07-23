@@ -10,7 +10,10 @@
 ### Research addresses questions like:
 
 •	Which counties are underperforming in getting students to KCSE level?
+
 •	Are there regional patterns in gender disparities?
+
 •	How do age distributions vary across counties?
+
 •	What trends are emerging over the 2020-2024 period?
 
