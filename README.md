@@ -7,7 +7,8 @@
 4.	Age pattern analysis - Over-age candidates might indicate systemic issues like grade repetition, late school entry, or interrupted schooling
 5.	Policy relevance - This data directly informs education planning and resource allocation decisions
    
-###Research addresses questions like:
+### Research addresses questions like:
+
 •	Which counties are underperforming in getting students to KCSE level?
 •	Are there regional patterns in gender disparities?
 •	How do age distributions vary across counties?
