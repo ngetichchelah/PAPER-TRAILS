@@ -1,19 +1,40 @@
-# "How do KCSE examination participation rates vary by gender, age group, and county in Kenya, and what trends emerge over time?"
+### Paper Trails: KCSE Candidature Trends in Kenya (2022–2024)
 
-### Why this is substantial:
-1.	KCSE candidature is a strong proxy for educational success - Students who sit for KCSE represent those who've successfully navigated the entire secondary education system
-2.	Regional equity analysis - Your county-level data can reveal educational inequalities between different regions of Kenya
-3.	Gender parity insights - You can analyze whether gender gaps in education completion vary geographically
-4.	Age pattern analysis - Over-age candidates might indicate systemic issues like grade repetition, late school entry, or interrupted schooling
-5.	Policy relevance - This data directly informs education planning and resource allocation decisions
-   
-### Research addresses questions like:
+✨ Project Summary
+This project, Paper Trails, investigates trends in Kenya Certificate of Secondary Education (KCSE) examination participation across gender, age group, county, region, and year for the period 2022 to 2024.
 
-•	Which counties are underperforming in getting students to KCSE level?
+🧠 Problem Statement
+Having just completed my own journey through school, I was overwhelmed with gratitude. Though typical of every gratitude moment in a human being , thoughts drifted in comparison to the countless students who never made it to the end. Whether due to inequality, systemic failures, or socioeconomic challenges, they did not get the chance to prove their educational journey. This project is a way of asking: how can we help more students make it to the finish line?
 
-•	Are there regional patterns in gender disparities?
+🔍 Research Question
+How do KCSE examination participation rates vary by gender, age group, and county in Kenya, and what trends emerge over time?
 
-•	How do age distributions vary across counties?
+🎯 Why This Analysis Is Important
+KCSE candidature as a proxy for educational success – Students sitting the KCSE represent those who have successfully navigated Kenya’s secondary education system.
 
-•	What trends are emerging over the 2020-2024 period?
+Regional equity analysis – County-level data reveals disparities and inequalities in access and retention.
 
+Gender parity insights – Identifies gender gaps and geographical variance in female vs male completion rates.
+
+Age pattern analysis – Over-age candidature often reveals issues like delayed school entry, repetition, or dropout-reentry cycles.
+
+Policy relevance – This analysis supports evidence-based education planning and resource allocation.
+
+📌 Key Questions Explored
+Which counties are underperforming in getting students to KCSE level?
+
+Are there regional patterns in gender disparities?
+
+How do age distributions vary across counties?
+
+What trends emerge in candidature between 2022 and 2024?
+
+📈 Data Scope
+Years: 2022, 2023, 2024
+
+Categories: Gender, Age Group, County, Region, Registration vs Sitting
+
+📚 Data Source
+Kenya National Examinations Council (KNEC)
+
+Ministry of Education, Kenya
