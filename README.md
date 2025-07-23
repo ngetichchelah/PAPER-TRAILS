@@ -1,4 +1,5 @@
-### Paper Trails: KCSE Candidature Trends in Kenya (2022–2024)
+# Paper Trails
+### KCSE Candidature Trends in Kenya (2022–2024)
 
 ✨ Project Summary
 This project, Paper Trails, investigates trends in Kenya Certificate of Secondary Education (KCSE) examination participation across gender, age group, county, region, and year for the period 2022 to 2024.
