@@ -5,7 +5,7 @@
 This project, Paper Trails, investigates trends in Kenya Certificate of Secondary Education (KCSE) examination participation across gender, age group, county, region, and year for the period 2022 to 2024.
 
 🧠 Problem Statement
-Having just completed my own journey through school, I was overwhelmed with gratitude. Though typical of every gratitude moment in a human being , thoughts drifted in comparison to the countless students who never made it to the end. Whether due to inequality, systemic failures, or socioeconomic challenges, they did not get the chance to prove their educational journey. This project is a way of asking: how can we help more students make it to the finish line?
+Having just completed my own journey through school, I have been overwhelmed with gratitude. Though typical of every gratitude moment in a human being , thoughts drifted in comparison to the students who like me made it and especially to the other side of the coin - those who never made it to the end. Whether due to inequality, systemic failures, or socioeconomic challenges, they did not get the chance to prove their educational journey. This project is a way of asking: how can we help more students make it to the finish line?
 
 🔍 Research Question
 How do KCSE examination participation rates vary by gender, age group, and county in Kenya, and what trends emerge over time?
