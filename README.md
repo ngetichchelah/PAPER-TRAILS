@@ -14,16 +14,11 @@ Having just completed my own journey through school, I have been overwhelmed wit
 How do KCSE examination participation rates vary by gender, age group, and county in Kenya, and what trends emerge over time?
 
 **Why This Analysis Is Important**
-
-KCSE candidature as a proxy for educational success – Students sitting the KCSE represent those who have successfully navigated Kenya’s secondary education system.
-
-Regional equity analysis – County-level data reveals disparities and inequalities in access and retention.
-
-Gender parity insights – Identifies gender gaps and geographical variance in female vs male completion rates.
-
-Age pattern analysis – Over-age candidature often reveals issues like delayed school entry, repetition, or dropout-reentry cycles.
-
-Policy relevance – This analysis supports evidence-based education planning and resource allocation.
+- KCSE candidature as a proxy for educational success – Students sitting the KCSE represent those who have successfully navigated Kenya’s secondary education system.
+- Regional equity analysis – County-level data reveals disparities and inequalities in access and retention.
+- Gender parity insights – Identifies gender gaps and geographical variance in female vs male completion rates.
+- Age pattern analysis – Over-age candidature often reveals issues like delayed school entry, repetition, or dropout-reentry cycles.
+- Policy relevance – This analysis supports evidence-based education planning and resource allocation.
 
 **Key Questions Explored**
 - Which counties are underperforming in getting students to KCSE level?
