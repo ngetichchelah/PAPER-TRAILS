@@ -30,7 +30,5 @@ How do KCSE examination participation rates vary by gender, age group, and count
 Categories: Gender, Age Group, County, Region, Registration vs Sitting
 
 **Data Source**
-
-Kenya National Examinations Council (KNEC)
-
-Ministry of Education, Kenya
+- Kenya National Examinations Council (KNEC)
+- Ministry of Education, Kenya
