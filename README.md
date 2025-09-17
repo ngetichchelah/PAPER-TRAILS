@@ -1,5 +1,6 @@
 # **Paper Trails**
 ### KCSE Candidature Trends in Kenya (2022–2024)
+https://kenya-kcse-trails.lovable.app/about
 
 **Project Summary**
 
