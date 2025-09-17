@@ -33,3 +33,21 @@ Categories: Gender, Age Group, County, Region, Registration vs Sitting
 **Data Source**
 - Kenya National Examinations Council (KNEC)
 - Ministry of Education, Kenya
+
+**Sustainable Development Goal (SDG) Contribution**
+
+This project directly contributes to ***SDG 4***: Quality Education, which aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.”
+
+- By analyzing gender disparities, the project supports Target 4.5, which focuses on eliminating gender disparities in education.
+
+- By examining county and regional patterns, the study highlights inequities in access and retention, aligning with Target 4.1, which seeks to ensure that all girls and boys complete free, equitable, and quality primary and secondary education.
+
+- By exploring age distribution trends, the project sheds light on delayed entry, repetition, and re-entry pathways, linking to Target 4.3, which emphasizes equal access for all learners.
+
+***Contribution***
+
+- Provides evidence-based insights to policymakers and education stakeholders for more targeted interventions.
+
+- Highlights equity gaps to ensure no learner is left behind.
+
+- Supports long-term educational planning by showing trends over time, contributing to strategies that advance inclusive and sustainable education in Kenya.
